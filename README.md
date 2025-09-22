@@ -1,4 +1,4 @@
-# 💳 Credit Card Transaction Report (Power BI)
+# 💳 Credit Card Transaction Report
 
 This repository contains a Power BI dashboard that analyzes credit card transaction data.
 The dashboard provides an overview of revenue, interest earned, transaction counts, customer demographics, and spending behaviors, enabling stakeholders to monitor financial performance and customer activity effectively.
