@@ -11,6 +11,9 @@ The dashboard provides an overview of revenue, interest earned, transaction coun
 * Analyze usage behavior across different payment methods (swipe, chip, online).
 * Enable interactive filtering by gender, income level, and card type.
 
+<img width="683" height="404" alt="Credit Card Transaction Dashboard" src="https://github.com/user-attachments/assets/5b89e8b0-1c32-465a-bb6d-32fb77ec413d" />
+
+
 📌 Dashboard Features
 
 * KPIs at a glance: Revenue, Amount, Interest, and Transaction Count.
