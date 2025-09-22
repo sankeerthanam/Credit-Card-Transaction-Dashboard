@@ -25,7 +25,5 @@ The dashboard provides an overview of revenue, interest earned, transaction coun
 
 * Power BI Desktop for dashboard design and data modeling.
 * DAX (Data Analysis Expressions) for custom KPIs and measures.
-
-Data Source: Simulated credit card transaction dataset (CSV/Excel).
-
-Visualizations: KPI cards, bar charts, line charts, donut/pie charts, and interactive slicers.
+* Data Source: credit card transaction dataset (CSV/Excel).
+* Visualizations: KPI cards, bar charts, line charts, donut/pie charts, and interactive slicers.
